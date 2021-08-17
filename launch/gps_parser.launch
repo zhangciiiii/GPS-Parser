@@ -1,0 +1,8 @@
+<launch>
+
+    <node pkg="gps_parser" type="gps_parser" name="gps_parser" output="screen">
+
+    </node>
+
+
+</launch>
